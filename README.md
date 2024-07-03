@@ -12,7 +12,7 @@
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Program Codes ](#program-codes)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshots and explanations)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
@@ -56,7 +56,7 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project11-Dealing-With-Factors-Affecting-A-Disease/blob/main/Project11-Dealing-With-Factors-Affecting-A-Disease.ipynb)
 
-## Screenshots
+## Screenshots and explanations
 
 ### How independent and depended variables are plotted on the graph?
 In a graph, the dependent and independent variables are typically plotted as follows:
