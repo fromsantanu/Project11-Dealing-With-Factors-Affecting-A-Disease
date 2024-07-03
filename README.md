@@ -1,4 +1,4 @@
-#  Project11-Dealing-With-Factors-Affecting-A-Disease
+#  Dealing With Factors Affecting A Disease
 > **Brief Description:** Use of Independent Variables, Dependent Variables and Confounding Variables
 
 ![Project Logo](STMProjects.png)
@@ -54,7 +54,7 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project10-STM-Post-Surgery-Recovery-Time/blob/main/Project10-STM-Post-Surgery-Recovery-Time.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project11-Dealing-With-Factors-Affecting-A-Disease/blob/main/Project11-Dealing-With-Factors-Affecting-A-Disease.ipynb)
 
 ## Screenshots
 
