@@ -12,7 +12,7 @@
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Program Codes ](#program-codes)
-- [Screenshots](#screenshots and explanations)
+- [Screenshots](#screenshots-and-explanations)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
